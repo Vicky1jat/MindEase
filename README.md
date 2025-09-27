@@ -1,4 +1,4 @@
-# 🧠 MindMate – Your Personal Companion for Mental Well-being.
+# 🧠 MindEase – Your Personal Companion for Mental Well-being.
 
 **MindMate** is a locally hosted mental health chatbot designed to provide supportive, context-aware responses to questions related to emotional well-being, stress, anxiety, depression, therapy, and more. It uses Retrieval-Augmented Generation (RAG) to reference preloaded mental health resources like therapy manuals, CBT/DBT guides, and psychology texts — ensuring reliable and private responses without an internet connection.
 
@@ -28,4 +28,4 @@
 | Chat Interface       | Streamlit                                     |
 
 ## 📸 Screenshot
-![Mental Health Chatbot](https://github.com/SANSKARKURUDE/Mental-Health-Chatbot/blob/main/Screenshot%202025-07-09%20010209.png)
+![Mental Health Chatbot](https://github.com/Vicky1jat/MindEase/blob/main/Screenshot%202025-07-09%20010209.png)
